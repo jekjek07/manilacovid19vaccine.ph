@@ -1,0 +1,46 @@
+#center {
+    margin-top: 20%;
+    background-color: white;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+#logo img {
+    width: 37%;
+    margin-left: 32%;
+    margin-top: -20%;
+    
+    
+}
+
+#panel {
+    border-style: solid;
+    border-color: steelblue;
+    border-width: 7px
+}
+
+#repub img {
+    width: 120%;
+    margin-left: -10%;
+}
+
+#pic img {
+    border-style: solid;
+    border-color: red;
+    border-width: 7px;
+    width: 55%;
+    margin-left: 22%
+    
+}
+#name img {
+    width: 100%;
+    margin-top: -2%;
+}
+
+#footer img {
+    width: 100%;
+    margin-top: -3%;
+}
+#back {
+    background-color: grey
+}
